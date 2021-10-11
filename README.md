@@ -1,0 +1,1 @@
+#ppscale-android-maven
