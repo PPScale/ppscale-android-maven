@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.lefu.ppscale</groupId>
+  <artifactId>ppscale</artifactId>
+  <version>2.1.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20211126.065046</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20211126065046</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>2.1.2-20211126.065046-1</value>
+        <updated>20211126065046</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.1.2-20211126.065046-1</value>
+        <updated>20211126065046</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
